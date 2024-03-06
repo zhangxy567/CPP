@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\CodeBase\CPP\24_3_6\demo1_Assignment\源.cpp(31,10): warning C4305: “初始化”: 从“double”到“float”截断
+C:\CodeBase\CPP\24_3_6\demo1_Assignment\源.cpp(32,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  demo1_Assignment.vcxproj -> C:\CodeBase\CPP\24_3_6\demo1_Assignment\x64\Debug\demo1_Assignment.exe
